@@ -5,5 +5,6 @@
 |  Oli |  Joey | Philippa |
 | Alexis  |  Alice |  Maja |
 |  Samatar | Piotr  | Lucy  |
-|  Jessica |  Finn |   |
+|  Jessica |  Finn | Akin  |
 |  Jen |  Maja |     |
+| Antonio |  |  
